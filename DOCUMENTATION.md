@@ -1,6 +1,6 @@
 # FlightLogImport
 
-FlightLogImport is an iOS app that helps pilots import their flight logs from SAS crew portal and Airside to LogTen Pro. The app provides a modern, user-friendly interface for managing and exporting flight data.
+FlightLogImport is an iOS app that helps pilots import their flight logs from SAS crew portal and Airside to LogTen Pro. 
 
 ## Features
 
@@ -10,7 +10,6 @@ FlightLogImport is an iOS app that helps pilots import their flight logs from SA
 - Automatic time zone handling
 - Smart PIC display logic
 - Total block time calculation for selected flights
-- Modern UI following iOS design guidelines
 
 ## Getting Started
 
